@@ -1,0 +1,4 @@
+E:\Project\QLyBanHangViTinh\DTO\bin\Debug\DTO.dll
+E:\Project\QLyBanHangViTinh\DTO\bin\Debug\DTO.pdb
+E:\Project\QLyBanHangViTinh\DTO\obj\Debug\DTO.dll
+E:\Project\QLyBanHangViTinh\DTO\obj\Debug\DTO.pdb

@@ -1,0 +1,9 @@
+E:\Project\QLyBanHangViTinh\BUS\bin\Debug\BUS.dll
+E:\Project\QLyBanHangViTinh\BUS\bin\Debug\BUS.pdb
+E:\Project\QLyBanHangViTinh\BUS\bin\Debug\DAO.dll
+E:\Project\QLyBanHangViTinh\BUS\bin\Debug\DTO.dll
+E:\Project\QLyBanHangViTinh\BUS\bin\Debug\DAO.pdb
+E:\Project\QLyBanHangViTinh\BUS\bin\Debug\DTO.pdb
+E:\Project\QLyBanHangViTinh\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+E:\Project\QLyBanHangViTinh\BUS\obj\Debug\BUS.dll
+E:\Project\QLyBanHangViTinh\BUS\obj\Debug\BUS.pdb
